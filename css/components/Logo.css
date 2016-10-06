@@ -1,0 +1,8 @@
+.Logo {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/57/React.js_logo.svg');
+  background-size: cover;
+  display: inline-block;
+  height: 50px;
+  vertical-align: middle;
+  width: 50px;
+}
